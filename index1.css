@@ -10,7 +10,7 @@ body{
   text-transform: capitalize;
 }
 .container{
-  
+
   padding: 0.5em;
   width: 100%;
   max-width: 1000px;
@@ -71,9 +71,11 @@ table, th, td {
 
 
 @media screen and (max-width: 680px)  {
-
+body{
+  font-size: auto;
+}
 .bo-kaap {
-  width: 80%;
+  width: 100%;
   display: block;
 }
 
