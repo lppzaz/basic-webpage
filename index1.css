@@ -38,6 +38,7 @@ border-width: medium;
 max-width:230px;
 float: left;
 margin-right: 50px;
+margin-bottom: 10px;
 
 
 }
@@ -49,6 +50,10 @@ table, th, td {
     border-spacing: 0px;
     padding-bottom: : 10px;
     border-collapse: collapse;
+
+}
+h2{
+  margin-top: 140px;
 }
 
 
